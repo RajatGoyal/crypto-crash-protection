@@ -1,0 +1,4 @@
+ccxt
+pyyaml
+pushbullet.py
+peewee

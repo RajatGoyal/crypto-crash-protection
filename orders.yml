@@ -1,0 +1,17 @@
+API_KEY: xxxx
+API_SECRET: xxx
+
+PUSHBULLET: "xxxx"
+
+ORDERS:
+  - id: 1
+    pair: BNB/BTC
+    order_type: dollar-stop-loss
+    sell_amount: 3
+    sell_price: 7
+
+  - id: 2
+    pair: BNB/BTC
+    order_type: trailing-stop-loss
+    sell_amount: 3
+    limit_percentage: 10
